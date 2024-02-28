@@ -327,7 +327,7 @@ negotiating_treaty = {
 }
 
 lacks_writing_system = {
-	education_efficiency_modifier = -1.0
+	education_efficiency_modifier = -0.5
 	icon = 6
 }
 
